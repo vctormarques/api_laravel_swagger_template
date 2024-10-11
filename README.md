@@ -5,3 +5,7 @@
 - Limpar cache
 
 ``` php artisan optimize ```
+
+- Gerar token 
+
+``` php artisan passport:client --personal ```
